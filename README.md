@@ -13,4 +13,4 @@ visualizar y analizar grafos.
 
 
 Por el momento solo hay un par de ejemplos basicos y
-posbiblemente se agreguen mas en el futuro.
+posiblemente se agreguen mas en el futuro.
